@@ -1,0 +1,2 @@
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+archive/malicious_phish.csv filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,10 @@
+Epoch	Accuracy	Precision	Recall	F1 Score	Loss
+1	0.89		0.85		0.87	0.86		0.52
+2	0.93		0.90		0.92	0.91		0.35
+3	0.96		0.94		0.95	0.945		0.25
+4	0.975		0.955		0.965	0.96		0.18
+5	0.98		0.96		0.97	0.965		0.12
+
+model loss düşürürken accuracy precision recall ve f1 skorunu arttırdı
+
+model bert tabanlı ve LoRA yöntemiyle ayarlandı. URL'ler 4 kategoriye göre ayrıldı. güvenli, kazılı, oltalı, zararlı(benign, defacement, phishing, malware)
